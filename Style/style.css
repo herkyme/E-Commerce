@@ -1,0 +1,295 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Courier New';
+
+
+}
+
+.main-head-container{
+    border-radius: 25px;
+    width: 100%;
+    height: 150px;
+    padding: 20px;
+    margin-left: 15px;    
+    box-shadow: 1px 4px 14px;
+    margin-top: 15px;    
+}
+
+.main-head {
+    display: inline-flex;
+    margin: 20px;
+
+}
+.logo img{
+    width: 100px;
+    height: 50px;
+    border-radius: 45px;
+}
+
+.button{
+    border-radius: 25px;
+    width: 560px;
+    height: 150px;
+    padding: 20px;
+    margin-left: 15px;    
+    box-shadow: 1px 4px 14px;
+    margin-top: 15px;
+}
+
+
+.head-center ul{
+    list-style: none;
+    margin-left: 20px;
+    
+}
+.head-center li{
+    display: inline-flex;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.vertical-line{
+    height: 45px;
+    border: 1px solid rgb(150, 148, 148);
+    margin-left: 10px;
+    margin-right: 25px;
+}
+.head-right{
+    margin-left: 25px;
+    margin-right: 10px;
+}
+
+.head-right--{
+    margin-left: 30px;
+    margin-right: 15px;
+}
+
+.head-right-image img{
+    width: 50px;
+    height: 50px;
+    border-radius: 45px;
+}
+
+
+.sect{
+    display: flex;
+}
+
+
+.left-side-container{
+    border-radius: 10px;
+    width:20%;
+    height: 70%;
+    padding: 20px;
+    margin: 5px;
+    box-shadow: 1px 4px 14px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.log-o img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    float: left;
+}
+.log-o h5{
+    margin-left: 15px;
+}
+.stories-cont{
+    border-radius: 10px;
+    width:90%;
+    height: auto;
+    padding: 20px;
+    margin: 5px;
+    box-shadow: 1px 4px 14px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.stories-image ul{
+    list-style: none;
+}
+
+.stories-image ul li{
+    display: inline-flex;
+}
+.stories-image img{
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+
+
+.pop-image img{
+    margin-top: 10px;
+    width: 50px;
+    height: 100px;
+    border-radius: 10px;
+    
+}
+.create-post-cont{
+    border-radius: 25px;
+    width: 560px;
+    height: 150px;
+    padding: 20px;
+    margin-left: 15px;    
+    box-shadow: 1px 4px 14px;
+    margin-top: 15px;
+}
+.create-post img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    float: left;
+}
+
+.create-image-cont{
+    border-radius: 5px;
+    width:auto;
+    height: 50px;
+    padding: 20px;
+    margin: 5px;
+    box-shadow: 1px 4px 14px;
+    margin-bottom: 10px;
+}
+.create-gallery-sect{
+    margin-top: 35px;
+}
+
+.popular-sect-cont{
+    border-radius: 25px;
+    width: 65%;
+    height: 50%;
+    padding: 20px;
+    margin-left: 10px;
+    box-shadow: 1px 4px 14px;
+    margin-top: 10px;
+}
+
+.popular-section{
+    display: inline-flex;
+    text-align: justify;
+    font-size: larger;
+    font-weight: 600;
+}
+.popular-section li { 
+    list-style: none;
+    margin-left: 10px;
+    
+}
+
+.anchor-popular{
+    text-decoration: 2px underline solid ;
+}
+.popular-section li a{
+    text-decoration: none;
+}
+.picture-section{
+    display: flex;
+}
+.picture-left-right img{
+    height: 100px;
+    width: 100px;
+
+}
+.picture--left--right img{
+    height: 100px;
+    width: 100px;
+}
+
+.secti{
+    display: flex;
+}
+.left{
+    height: 100px;
+    width: 100px;
+
+}
+
+.right{
+    height: 100px;
+    width: 100px;
+}
+
+.upcoming-image{
+    width: 100px;
+    height: 100px;
+}
+
+.pages {
+    display:block;
+    margin-top: 40px;
+
+    
+}
+.pages li{
+    list-style: none;
+    margin-top: 10px;
+    
+
+
+}
+
+.pages button{
+    box-shadow: 1px 4px 14px;
+}
+
+.games {
+    display: inline-flexbox;
+    
+
+}
+.games li{
+    list-style: none;
+    
+}
+.explore {
+    display: inline-flexbox;
+
+}
+.explore li{
+    list-style: none;
+    
+}
+.group {
+    display: inline-flexbox;
+}
+.group li{
+    list-style: none;
+    
+
+}
+.upcoming-event-cont{
+    
+}
+
+.upcoming-image img{
+    width: 200px;
+    height: 100px;
+}
+.friend-request img{
+    width: 100px;
+    height: 100px;
+}
+
+.create-group-page{
+    border-radius: 25px;
+    width: 35%;
+    height: 15%;
+    padding: 20px;
+    margin: 5px;
+    box-shadow: 1px 4px 14px;
+    margin-left: 20px;
+}
+
+.--- img{
+    width: 100px;
+    height: 100px;
+}
+
+.group h5{
+    margin-top: 10px;
+
+}
